@@ -1,4 +1,7 @@
 .jumbotron {
+    font-family: 'Titan One', cursive;
+    color: white;
     text-align: center;
-    background: coral;
+    background-image: url("../colorado_flag.png");
 }
+
